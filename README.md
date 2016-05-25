@@ -8,6 +8,9 @@
  - Cloned branch 1.8 as the master. 
  - Updated github config for default branch.
 
+## Docs
+
+https://github.com/Rud5G/PHPExcel/blob/master/Documentation/markdown/Overview/01-Getting-Started.md
 
 
 # PHPExcel - OpenXML - Read, Write and Create spreadsheet documents in PHP - Spreadsheet engine
@@ -19,6 +22,8 @@ Develop: [![Build Status](https://travis-ci.org/PHPOffice/PHPExcel.png?branch=de
 
 [![Join the chat at https://gitter.im/PHPOffice/PHPExcel](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/PHPOffice/PHPExcel)
  
+ 
+
 
 ## File Formats supported
 
