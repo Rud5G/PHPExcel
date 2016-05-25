@@ -2,6 +2,8 @@
 
  - Go to https://github.com/PHPOffice/PHPExcel
 
+This is an unmanaged fork.
+
 ## What happend here?
 
  - Removed all branches except 1.8 and 1.9 
