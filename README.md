@@ -4,7 +4,9 @@
 
 ## What happend here?
 
- - Removed all branches, except 1.8 and 1.9 then cloned 1.8 as the master. Updated github config for default branch.
+ - Removed all branches except 1.8 and 1.9 
+ - Cloned branch 1.8 as the master. 
+ - Updated github config for default branch.
 
 
 
