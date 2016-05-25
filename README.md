@@ -1,3 +1,13 @@
+## Want to contribute?
+
+ - Go to https://github.com/PHPOffice/PHPExcel
+
+## What happend here?
+
+ - Removed all branches, except 1.8 and 1.9 then cloned 1.8 as the master. Updated github config for default branch.
+
+
+
 # PHPExcel - OpenXML - Read, Write and Create spreadsheet documents in PHP - Spreadsheet engine
 PHPExcel is a library written in pure PHP and providing a set of classes that allow you to write to and read from different spreadsheet file formats, like Excel (BIFF) .xls, Excel 2007 (OfficeOpenXML) .xlsx, CSV, Libre/OpenOffice Calc .ods, Gnumeric, PDF, HTML, ... This project is built around Microsoft's OpenXML standard and PHP.
 
@@ -6,6 +16,7 @@ Master: [![Build Status](https://travis-ci.org/PHPOffice/PHPExcel.png?branch=mas
 Develop: [![Build Status](https://travis-ci.org/PHPOffice/PHPExcel.png?branch=develop)](http://travis-ci.org/PHPOffice/PHPExcel)
 
 [![Join the chat at https://gitter.im/PHPOffice/PHPExcel](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/PHPOffice/PHPExcel)
+ 
 
 ## File Formats supported
 
@@ -34,15 +45,6 @@ Develop: [![Build Status](https://travis-ci.org/PHPOffice/PHPExcel.png?branch=de
  * PHP extension php_gd2 enabled (optional, but required for exact column width autocalculation)
 
 
-## Want to contribute?
-
-If you would like to contribute, here are some notes and guidlines:
- - All new development happens on the 1.8 branch, so it is always the most up-to-date
- - The master branch only contains tagged releases
- - If you are going to be submitting a pull request, please fork from 1.8, and submit your pull request back to that 1.8 branch
- - Wherever possible, code changes should conform as closely as possible to PSR-2 standards
- - [Helpful article about forking](https://help.github.com/articles/fork-a-repo/ "Forking a Github repository")
- - [Helpful article about pull requests](https://help.github.com/articles/using-pull-requests/ "Pull Requests")
 
 
 ## License
